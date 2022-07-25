@@ -1,0 +1,8 @@
+prefix=/home/boyheaven/Vscode/work/d455/src/D455_r_ros/build/devel
+
+Name: D455_r_ros
+Description: Description of D455_r_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
